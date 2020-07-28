@@ -1,0 +1,5 @@
+#fact {
+    /* Nota: con display:none no se muestra el div
+        al cargar la página */
+    display:none;
+}
