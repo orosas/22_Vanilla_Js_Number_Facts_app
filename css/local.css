@@ -3,3 +3,7 @@
         al cargar la página */
     display:none;
 }
+
+#errorDiv {
+    margin-top: 1.5rem;
+}
